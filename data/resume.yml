@@ -1,31 +1,24 @@
 headers:
     profile: Profile
     skills: Skills
-    languages: Languages
     techs: Technical
-    jobs: Experiences
-    education: Education
     links: Links
+    projects: Projects
+    education: Education
+    jobs: Experiences
     download: Download PDF
     age: y/o
-    projects: Projects
 
 info:
-    name: Full Name
+    name: Gabe Finch
     # dob: 1980-01-01 # not mandatory
-    shortdesc: Job Title
-    email: example@example.com
-    phone: (313) - 867-5309 # not mandatory
-    homepage: http://example.com/ # not mandatory
+    shortdesc: JS/Ruby/Python Developer
+    email: gabefinch@gmail.com
+    phone: (541) - 513-5643 # not mandatory
     address:
-        street: 123 Fake Street
-        city: City
-        region: Region # not mandatory
-        postal_code: 12345 # not mandatory
-        country: Country # not mandatory
-    desc: |
-        Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
-
+        city: Portland
+        region: Oregon # not mandatory
+    desc:     I am Junior Developer in Portland, Oregon. I have experience with Python, Ruby, and Javascript and I get along pretty well with BDD. I am familiar with a variety of MVC frameworks including Ruby on Rails, Sinatra, AngularJS, and EmberJS. I additionally have some background in data analysis using Python libraries. I am excited about opportunities to learn new languages/frameworks and to establish myself as a valuable contributor to larger codebases.
 skills:
     - name: Web design
       desc: Assertively exploit wireless initiatives rather than synergistic core competencies.
@@ -34,44 +27,42 @@ skills:
     - name: Project Direction
       desc: Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
 
-languages:
-    - name: Gibberish
-      level: Native language
-    - name: Manager Speak
-      level: Fluent
-
 alphabetsoup:
-    - XHTML
-    - CSS
-    - Javascript
+    - Ruby
+    - Rails
+    - Rspec
 
-    - Jquery
-    - PHP
-    - CVS / Subversion
+    - jQuery
+    - Angular
+    - Ember
 
-    - OS X
-    - Windows XP/Vista
-    - Linux
+    - Bootstrap
+    - HTML/CSS
+    - Python
+
+    - Agile
+    - BDD
+    -
 
 links:
-    - name: Link1
-      url: http://example.com/
-    - name: Another link
-      url: https://example.com/
+    - name: LinkedIn
+      url: http://www.linkedin.com/in/gabefinch
+    - name: GitHub
+      url: https://github.com/gabefinch
 
 jobs:
-    - title: Senior Interface Designer
-      company: Famous Company
-      url: http://example.com/
+    - title: Student
+      company: Epicodus
+      url: https://www.epicodus.com/employers.html
       dates:
-          start: 2007-01-02
-          end: Present
+          start: 2015
+          end: 2015
       desc: |
-          Intrinsicly enable optimal core competencies through corporate relationships.
+          At Epicodus I learned web development from the ground up full-time over 5 months.  Curriculum emphasized
 
-          Phosfluorescently implement worldwide vortals and client-focused imperatives.
+          comprehensive BDD, Agile, Sinatra, Rails, jQuery, Angular, Ember, SQL, ActiveRecord, RESTful APIs,
 
-          Conveniently initiate virtual paradigms and top-line convergence.
+          Pair Programming, and personal growth.
 
     - title: Junior Interface Designer
       company: Technocorp
@@ -109,4 +100,3 @@ projects: # this section is not mandatory
         city: Florence
         region: Tuscany
         country: Italy # not mandatory
-
