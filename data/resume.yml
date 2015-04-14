@@ -1,5 +1,5 @@
 headers:
-    profile: Profile
+    profile: Summary
     skills: Skills
     techs: Technical
     links: Links
@@ -9,94 +9,101 @@ headers:
     download: Download PDF
     age: y/o
 
+
 info:
     name: Gabe Finch
     # dob: 1980-01-01 # not mandatory
     shortdesc: JS/Ruby/Python Developer
     email: gabefinch@gmail.com
-    phone: (541) - 513-5643 # not mandatory
+    phone: (541) 513-5643 # not mandatory
     address:
         city: Portland
         region: Oregon # not mandatory
-    desc:     I am Junior Developer in Portland, Oregon. I have experience with Python, Ruby, and Javascript and I get along pretty well with BDD. I am familiar with a variety of MVC frameworks including Ruby on Rails, Sinatra, AngularJS, and EmberJS. I additionally have some background in data analysis using Python libraries. I am excited about opportunities to learn new languages/frameworks and to establish myself as a valuable contributor to larger codebases.
-skills:
-    - name: Web design
-      desc: Assertively exploit wireless initiatives rather than synergistic core competencies.
-    - name: Interface Design
-      desc: Credibly streamline mission-critical value with multifunctional functionalities.
-    - name: Project Direction
-      desc: Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+
+
+    desc: "Howdy. I am a junior developer based in Portland, Oregon. Are you building an awe-inspiring web app? Maybe I could help. I want to be a part of a team of hard-working talented developers who are excited about their projects, who value mentorship, who push their limits, who refactor, who write test-coverage, and who value agile.  I want to grow a lot as a developer over the next few years, and I am looking for an employer that can provide me with opportunities to do that.  I've been coding since middle school, I bring maturity, leadership, and a plenitude of experience in multiple languages, frameworks, and libraries.  If you are seeking someone to bring the awesome-sauce, we need to talk."
 
 alphabetsoup:
-    - Ruby
-    - Rails
+    - Ruby on Rails
     - Rspec
-
+    - Javascript
+    - AngularJS
+    - Ember.js
     - jQuery
-    - Angular
-    - Ember
-
+    - Mocha/Chai
+    - Sass
+    - Foundation
+    - Ruby
     - Bootstrap
+    - iPython
+    - Haml
     - HTML/CSS
     - Python
-
+    - Data Analysis
+    - Grap
     - Agile
-    - BDD
-    -
+    - TDD
+    - Bash
+    - REGEX
+    - PostgreSQL
+    - Algorithm Design
+    - ActiveRecord
+    - Sinatra
+    - Middleman
+    - Git/Github
+    - AJAX
+    - Data Structures
 
-links:
-    - name: LinkedIn
-      url: http://www.linkedin.com/in/gabefinch
-    - name: GitHub
-      url: https://github.com/gabefinch
+
+skills:
+    - name: Creativity
+      desc: Experience building dozens of apps, from vision stage to full realization.
+    - name: Teamwork
+      desc: History of being on winning teams. People-skills, non-diva, no-drama.
+    - name: Leadership
+      desc: Proven ability leading small teams to produce work above their individual abilities.
+
 
 jobs:
+    - title: Intern
+      company: EyeCue Lab
+      url: http://www.eyecuelab.com/
+      dates:
+          start: 2015
+          end: 2015
+      desc: Building a Rails app with AJAX.  Using Zurb Foundation and Sass to make the front-end responsive and sparkly.
+
     - title: Student
       company: Epicodus
       url: https://www.epicodus.com/employers.html
       dates:
           start: 2015
           end: 2015
-      desc: |
-          At Epicodus I learned web development from the ground up full-time over 5 months.  Curriculum emphasized
+      desc: At Epicodus I learned web development from the ground up full-time over 5 months.  Curriculum emphasized BDD, Agile, Sinatra, Rails, jQuery, Angular, Ember, SQL, ActiveRecord, RESTful APIs, pair programming, and personal growth.
 
-          comprehensive BDD, Agile, Sinatra, Rails, jQuery, Angular, Ember, SQL, ActiveRecord, RESTful APIs,
-
-          Pair Programming, and personal growth.
-
-    - title: Junior Interface Designer
-      company: Technocorp
-      dates:
-          start: 2005-01-01
-          end: 2007-01-01
-      desc: |
-          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
-
-          Compellingly morph extensive niche markets with mission-critical ideas.
-
-          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
-
-education: # this section is not mandatory
-    - name: Indiana University
-      url: http://indiana.edu # not mandatory
-      city: Bloomington
-      region: Indiana
-      country: USA # not mandatory
-      dates:
-        start: 2001-01-01
-        end: 2010-01-01 # not mandatory
-      title: Dual Major, Economics and English
-      grade: 4.0 GPA # not mandatory
 
 projects: # this section is not mandatory
-    - name: ResumeMan
-      desc: |
-          Resume Man is an HTML and PDF resume builder made in Ruby with Middleman.
+    - name: FlashCards
+      desc: A flash card app with smart sorting algorithm built by a small team of Epicodus students in AngularJS over three days.
+      url: http://alexkaufman06.github.io/tech-vocab/index.html
+    - name: Chess
+      desc: In our free week to work on large projects, we pair programmed to build a chess game app with Ruby, ActiveRecord and Sinatra.
+      url: https://github.com/rallyb13/chess_game
+    - name: Humble Pie Pizza Co. Website
+      desc: A simple single-page app allowing users to put together their pizza order before calling it in to the vendor. Utilizes Javascript/jQuery. Completed in 8 hours.
+      url: http://gabefinch.github.io/humble-pie-pizza/
+    - name: Littr
+      desc: A Twitter clone built in EmberJS over 8 hours.  Cat-themed purely for reasons of amusement.
+      url: http://gabefinch.github.io/littr-kitty-twittrclone/
+
+
+links:
+    - name: Homepage
+      url: https://gabefinch.github.com/
+    - name: GitHub
+      url: https://github.com/gabefinch
+    - name: CodePen
+      url: http://codepen.io/gabefinch/
+    - name: LinkedIn
+      url: http://www.linkedin.com/in/gabefinch
       url: https://github.com/reefab/ResumeMan # not mandatory
-      dates: # not mandatory
-        start: 2013-02-18
-        end: 2014-04-05 # not mandatory
-      location: # not mandatory
-        city: Florence
-        region: Tuscany
-        country: Italy # not mandatory
