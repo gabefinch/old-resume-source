@@ -98,7 +98,7 @@ projects: # this section is not mandatory
       url: https://github.com/rallyb13/chess_game
     - name: Lonely-Mail
       desc: Faux email interface built with Ember and Bootstrap. Styled with Bootstrap.
-      url: http://gabefinch.github.io/lonely-mail.html/
+      url: http://gabefinch.github.io/lonely-mail/
     - name: Humble Pie Pizza Co. Website
       desc: A simple single-page app allowing users to put together their pizza order before calling it in to the vendor. Utilizes Javascript/jQuery. Completed in 8 hours.
       url: http://gabefinch.github.io/humble-pie-pizza/
