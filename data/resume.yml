@@ -73,7 +73,7 @@ jobs:
       dates:
           start: 2015
           end: 2015
-      desc: Full stack development of client Rails app with extensive AJAX and resposive design. Utilized Sass and Zurb Foundation.
+      desc: Full stack development of an inventory tracking app for a local soup kitchen. Utilized Rails-API, Active Model Serializer, and AngularJS. Completing this project gave me a deeper understanding of tree data structures, JSON serialization, Angular best practices, cacheing, and handling promises in JS.
     - title: Student
       company: Epicodus
       url: https://www.epicodus.com/employers.html
